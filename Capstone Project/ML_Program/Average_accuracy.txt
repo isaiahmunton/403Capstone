@@ -1,0 +1,42 @@
+Predction1.py -> 99.074% 
+1 - prediction lat: 61.206, actual lat: 61.088 -> 99.807
+    prediction long: 24.532, actual long: 24.704 -> 99.303
+2 - prediction lat: 61.079, actual lat: 61.249 -> 99.722
+    prediction long: 24.127, actual long: 24.036 -> 99.622
+3 - prediction lat: 61.075, actual lat: 61.133 -> 99.905
+    prediction long: 24.104, actual long: 24.705 -> 97.567
+4 - prediction lat: 61.174, actual lat: 61.171 -> 99.995
+    prediction long: 24.389, actual long: 24.599 -> 99.146
+5 - prediction lat: 61.072, actual lat: 61.156 -> 99.862
+    prediction long: 24.203, actual long: 24.232 -> 99.880
+6 - prediction lat: 61.176, actual lat: 61.136 -> 99.934
+    prediction long: 24.489, actual long: 24.341 -> 99.395
+7 - prediction lat: 61.216, actual lat: 60.959 -> 99.580
+    prediction long: 24.492, actual long: 24.487 -> 99.979
+8 - prediction lat: 61.093, actual lat: 61.142 -> 99.919
+    prediction long: 23.120, actual long: 24.319 -> 95.069
+9 - prediction lat: 61.121, actual lat: 61.152 -> 99.949
+    prediction long: 23.023, actual long: 24.286 -> 94.799
+10 - prediction lat: 61.141, actual lat: 61.210 -> 99.887
+    prediction long: 23.879, actual long: 24.326 -> 98.162
+Predction2.py - 99.456%
+1 - prediction lat: 61.228, actual lat: 61.088 -> 99.771
+    prediction long: 24.601, actual long: 24.704 -> 99.583
+2 - prediction lat: 61.288, actual lat: 61.249 -> 99.936
+    prediction long: 24.271, actual long: 24.036 -> 99.031
+3 - prediction lat: 61.272, actual lat: 61.133 -> 99.773
+    prediction long: 25.590, actual long: 24.705 -> 96.541
+4 - prediction lat: 61.268, actual lat: 61.171 -> 99.841
+    prediction long: 24.573, actual long: 24.599 -> 99.894
+5 - prediction lat: 61.217, actual lat: 61.178 -> 99.936
+    prediction long: 24.643, actual long: 24.626 -> 99.931
+6 - prediction lat: 61.133, actual lat: 61.156 -> 99.962
+    prediction long: 24.705, actual long: 24.232 -> 98.085
+7 - prediction lat: 61.280, actual lat: 61.136 -> 99.765
+    prediction long: 24.393, actual long: 24.341 -> 99.786
+8 - prediction lat: 61.195, actual lat: 60.959 -> 99.614
+    prediction long: 24.495, actual long: 24.487 -> 99.967
+9 - prediction lat: 61.117, actual lat: 61.142 -> 99.959
+    prediction long: 23.947, actual long: 24.319 -> 98.470
+10 - prediction lat: 61.269, actual lat: 61.152 -> 99.809
+    prediction long: 24.154, actual long: 24.286 -> 99.456
