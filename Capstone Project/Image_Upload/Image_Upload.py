@@ -39,7 +39,7 @@ firebase_admin.initialize_app(cred, {
 start_time = time.time()
 
 # Use the image_to_hex function to convert the image at the specified path to a hex string
-hex_str = image_to_hex("Images/2.jpeg")
+hex_str = image_to_hex("Images/1.jpeg")
 
 # Get a reference to the 'Image' node in the Firebase Realtime Database
 image_ref = db.reference('Image')
